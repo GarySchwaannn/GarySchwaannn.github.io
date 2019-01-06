@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.swansonpaint.com" resolutions="1x" timestamp="1546722363272">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.swansonpaint.com" resolutions="1x" timestamp="1546734928199">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="71572916" ref="index"/>
-    <file name="index.css" crc="253140296" ref="index"/>
+    <file name="index.css" crc="454048405" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="paint-services.png" crc="4128415112" seo="true" mt="1539118815000"/>
@@ -39,6 +39,9 @@
     <file name="pasted image 144x942.jpg" crc="4210969356" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="paint-cans-crop-u2394.jpg" crc="4193232595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3805483948" seo="true" mt="1546721608102" redirect="true"/>
+  <file name="index.html" crc="364222960" seo="true" mt="1546734821427" redirect="true"/>
 </manifest>
